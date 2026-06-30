@@ -1,0 +1,15 @@
+compiled/
+*.zo
+*.dep
+*.rkt~
+*.rkt.bak
+
+.racket/
+
+*.swp
+*.tmp
+
+.DS_Store
+Thumbs.db
+
+*.log
